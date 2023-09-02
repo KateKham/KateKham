@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/YIUkip7H6IEmAGp09V/giphy.gif" width="100"/>
+</div>
 
-<!--
-**KateKham/KateKham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id "header" align="center" >
+<h1>hi there, I'm Katerina</h1>
+<h3>Trainee QA Engineer</h3>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges">
+<a href="https://t.me/@khazzykatt">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=logo-Telegram&logoColor=logoColor-white%20
+ >
+
+</div>
