@@ -9,7 +9,7 @@
 
 <div id="badges">
 <a href="https://t.me/khazzykatt">
-
+</a>
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=logo-Telegram&logoColor=logoColor-white%20>
 
 </div>
